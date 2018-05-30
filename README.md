@@ -6,6 +6,7 @@
 
 ## 安装
 ><font color=red>npm install rocker-mvc --save</font>
+
 Node.js >= 8.0.0 required.
 
 <br/>
